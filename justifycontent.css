@@ -1,0 +1,15 @@
+
+
+h1{   
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+div{
+    display: flex;
+    background-color: chartreuse;
+    padding: 10px;
+    justify-content: space-around;
+}
