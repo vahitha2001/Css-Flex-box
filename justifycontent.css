@@ -11,5 +11,5 @@ div{
     display: flex;
     background-color: chartreuse;
     padding: 10px;
-    justify-content: space-around;
+    justify-content: space-between;
 }

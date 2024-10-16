@@ -1,0 +1,30 @@
+
+div{
+    background-color: purple;
+    display: flex;
+    padding: 10px;
+}
+
+.h1{
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    flex-grow: 2;
+}
+
+.h2{
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    flex-grow: 3;
+}
+
+.h3{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    flex-grow: 1;
+}

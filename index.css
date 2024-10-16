@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: rgb(6, 17, 39);  
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.imgdiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imgdiv div{
+    width: 100px;
+    color: white;
+    margin: 10px;
+    flex-basis: 20%;
+    flex-grow: 1;
+}

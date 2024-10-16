@@ -1,0 +1,42 @@
+
+
+/* main axis is row*/
+
+.div1{
+    background-color: orangered;
+    flex-direction: row; 
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    align-items: center;
+}
+
+.div1 h1{
+    background-color: white;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+}
+
+
+/* main axis is column*/
+
+.div2{
+    background-color: green;
+    flex-direction: column; 
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    align-items: center; 
+}
+
+.div2 h1{
+    background-color: white;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+}
+
+
