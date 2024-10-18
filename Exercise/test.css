@@ -6,6 +6,7 @@
 .div1{
     height: 500px;
     width: 700px;
+    margin: 5%;
     background-color:aqua;
     display: flex;
     justify-content: center;
@@ -18,8 +19,10 @@
     background-color: black;
 }
 
-p{
-    margin: 16px;
+.div1 .div2 div{ 
+    height: 1rem;
+    width: auto;
+    margin: 12%;
     background-color: orange;
     border-radius: 10px;
 }
